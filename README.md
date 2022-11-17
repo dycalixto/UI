@@ -1,4 +1,4 @@
-# UI/UX
+# FRONTEND
 
 Se requiere realizar una app web para una taquería, para eso se realizarán los siguientes puntos:
 
